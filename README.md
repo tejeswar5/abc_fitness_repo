@@ -58,7 +58,7 @@ The project is organized into the following main packages:
 ### 1. Clone the Repository
 
 bash
-git clone https://github.com/your-repo/fitness-lecture-booking.git
+git clone [https://github.com/your-repo/fitness-lecture-booking.git](https://github.com/tejeswar5/abc_fitness_repo.git)
 cd fitness-lecture-booking
 
 
