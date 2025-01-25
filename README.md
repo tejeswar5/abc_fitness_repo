@@ -2,11 +2,11 @@
 
 ## Overview
 
-This is a Spring Boot application for managing and booking fitness lectures. It includes features for creating lectures, booking participation, and managing users.
+This is a Spring Boot application for managing and booking fitness classes. It includes features for creating classes, booking participation, and managing users.
 
 ## Key Features
 
-- **Lecture Management**: Create and retrieve fitness lectures.
+- **Class Management**: Create and retrieve fitness lectures.
 - **Booking System**: Book lectures for specific dates, ensuring that bookings adhere to capacity and date constraints.
 - **User Validation**: Validate users before allowing them to make bookings.
 - **Unit Tests**: Comprehensive test cases to ensure the correctness of the booking logic.
@@ -48,8 +48,8 @@ The project is organized into the following main packages:
 
 ## Prerequisites
 
-- Java 8 or later
-- Maven 3.6 or later
+- Java 17
+- Maven 3.6
 
 ---
 
